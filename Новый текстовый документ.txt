@@ -1,0 +1,44 @@
+<br> new line
+<a> href link
+<strong> jirniy shrift
+<em> podcherknutyi
+
+codepen.io/pen/
+
+
+CSS
+h1 {
+font-family
+}
+
+H1 {
+color: green;
+}
+
+body {
+background color
+}
+
+border:1px solid red;
+
+dotted red tochki
+dashed linii
+
+text align ?????
+
+rgb prozrachnost
+
+block elements
+p,h,blockquote,ol,ul,table
+
+<span>ne zanimaet mest
+
+inline elements
+a,em,strong,br
+
+4ut 4ut mest zanimaet
+
+<div> </div>
+
+class dofiga zhazuga
+id bir ret zhazuga
