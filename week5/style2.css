@@ -1,0 +1,12 @@
+
+#carousel img{
+  width:200px;
+  height:100px;
+}
+#carousel{
+  display:flex;
+}
+#bigImage img{
+  width:1000px;
+  height:600px;
+}
